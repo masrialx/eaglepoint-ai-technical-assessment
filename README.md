@@ -1,5 +1,3 @@
-
-```markdown
 # EaglePoint AI – Full-Stack Developer Technical Assessment
 
 **Candidate:** Masri  
@@ -80,11 +78,3 @@ The script runs a simulated load for several user IDs so you can instantly see t
 - All edge cases documented and handled
 
 Thank you for the opportunity! I'm happy to answer any questions or add additional features/tasks.
-
-Best regards,  
-Masri
-```
-
-Just copy-paste the entire block above into your `README.md` — it will render beautifully on GitHub.
-
-Would you also like me to write a polished submission message for the Google Form (with direct links to the repo and both task folders)? Just say the word! 🚀
