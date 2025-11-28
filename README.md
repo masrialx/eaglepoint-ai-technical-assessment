@@ -1,7 +1,7 @@
 # EaglePoint AI – Full-Stack Developer Technical Assessment
 
-**Candidate:** Masri  
-**Email:** your-email@example.com  
+**Candidate:** Masresha Alemu  
+**Email:** masrialemuai@gmail.com  
 **Date:** November 28, 2025  
 
 This repository contains my complete submission for the EaglePoint AI Technical Assessment.  
@@ -77,4 +77,4 @@ The script runs a simulated load for several user IDs so you can instantly see t
 - Code is extensively commented and follows PEP 8
 - All edge cases documented and handled
 
-Thank you for the opportunity! I'm happy to answer any questions or add additional features/tasks.
+
