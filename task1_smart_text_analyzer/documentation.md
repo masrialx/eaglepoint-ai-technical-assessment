@@ -1,8 +1,5 @@
 # Task 1 – Smart Text Analyzer Documentation
 
-## Searches & Resources:
-- Google: "python count words in string" → https://stackoverflow.com/q/4650688
-- Python Counter documentation: https://docs.python.org/3/library/collections.html#collections.Counter
 
 ## Thought Process:
 - Split text into words
