@@ -1,9 +1,5 @@
 # Task 3 – Rate Limiter Documentation
 
-## Searches & Resources:
-- Google: "python rate limiter per user"
-- Python defaultdict docs: https://docs.python.org/3/library/collections.html#collections.defaultdict
-- Time handling: https://docs.python.org/3/library/time.html
 
 ## Thought Process:
 - Use a dictionary to track each user's request timestamps
